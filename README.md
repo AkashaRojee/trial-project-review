@@ -37,8 +37,8 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 - Work on feature branch
-- Add config files for linters
 - Clone [original repo](https://vladanvi99.github.io/akasha-vladan/)
+- Add config files for linter
 
 ### Install
 
