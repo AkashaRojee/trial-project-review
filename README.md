@@ -4,7 +4,7 @@
 
 > Review a project from Microverse trials
 
-![screenshot](images/trial-project-review-edited.png)
+![screenshot](images/trial-project-review.png)
 
 This project serves to perform a code review on our own code.
 
@@ -22,7 +22,7 @@ This project serves to perform a code review on our own code.
 
 ## Live Demo
 
-[Live Demo Link](https://akasharojee.github.io/trial-project-review//)
+[Live Demo Link](https://akasharojee.github.io/trial-project-review/)
 
 ## Getting Started
 
