@@ -4,7 +4,7 @@
 
 > Review a project from Microverse trials
 
-![screenshot](images/trial-project-review.png)
+![screenshot](images/trial-project-review-edited.png)
 
 This project serves to perform a code review on our own code.
 
